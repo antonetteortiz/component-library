@@ -1,0 +1,38 @@
+form {
+  display: flex;
+  flex-direction: column;
+  text-transform: capitalize;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  width: 300px;
+  position: relative;
+}
+select {
+  text-transform: capitalize;
+  appearance: none;
+  background: url("./arrow.png") 90% / 2% no-repeat #fafafb;
+  width: 150px;
+}
+.border {
+  width: 150px;
+  border: 1px solid #f1f3f4bd;
+  background-color: white;
+}
+.select-small {
+  height: 40px;
+}
+.select-med {
+  padding: 18px;
+  height: 50px;
+  width: 80px;
+}
+.select-large {
+  padding: 20px;
+  height: 60px;
+}
+.fade {
+  background-color: #fafafb;
+  border-color: none;
+}
+option {
+  margin: 2px;
+}

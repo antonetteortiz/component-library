@@ -1,0 +1,335 @@
+button {
+    border-radius: 2px;
+    padding: 5px 25px;
+}
+
+/* Primary Button */
+.button-primary {
+    background-color: #33A0FF;
+    color: #FAFAFB;
+    border: #33A0FF;
+}
+
+.button-primary:hover {
+    background-color: #2E90E5;
+    color: #FAFAFB;
+    border: #2E90E5;
+}
+
+.button-primary-outline {
+    background-color: #FAFAFB;
+    color: #33A0FF;
+    border: 1px solid #0069D9;
+}
+
+.button-primary-faded {
+    background-color: #E8F3FD;
+    color: #0069D9;
+    border: 1px solid #0069D9;
+}
+
+.button-primary-large {
+  background-color: #33A0FF;
+  color: #FAFAFB;
+  border: #33a0ff;
+  border-radius: 4px;
+  padding: 10px 30px;
+
+}
+.button-primary-large:hover {
+  background-color: #2E90E5;
+  color: #FAFAFB;
+  border: #2E90E5;
+  border-radius: 4px;
+  padding: 10px 30px;
+}
+
+.button-primary-largeOutline {
+  background-color: #FAFAFB;
+  color: #33A0FF;
+  border: 1px solid #33A0FF;
+  border-radius: 4px;
+  padding: 10px 30px;
+}
+
+.button-primary-largeFaded {
+  background-color: #eaf5ff;
+  color: #33a0ff;
+  border: #33a0ff;
+  border-radius: 4px;
+  padding: 10px 30px;
+}
+
+/* Danger Button */
+.button-danger{
+    background-color: #FF4858;
+    color: #FAFAFB;
+    border: #FF4858;
+}
+
+.button-danger:hover {
+    background-color: #FF6875;
+    color: #FAFAFB;
+    border: #FF6875;
+}
+
+.button-danger-outline{
+    background-color: #FAFAFB;
+    color: #FF4252;
+    border: 1px solid #FF4252;
+}
+
+.button-danger-faded {
+  background-color: #FFECEE;
+  color: #FF4858;
+  border: 1px solid #FF4858;
+}
+
+.button-danger-large {
+  background-color: #FF4858;
+  color: #FAFAFB;
+  border: #FF4858;
+  border-radius: 4px;
+  padding: 10px 30px;
+
+}
+.button-danger-large:hover {
+  background-color: #FF6875;
+  color: #FAFAFB;
+  border: #FF6875;
+  border-radius: 4px;
+  padding: 10px 30px;
+}
+
+.button-danger-largeOutline {
+  background-color: #FAFAFB;
+  color: #FF4858;
+  border: 1px solid #FF4858;
+  border-radius: 4px;
+  padding: 10px 30px;
+}
+
+.button-danger-largeFaded {
+  background-color: #FFECEE;
+  color: #FF4858;
+  border: 1px solid #FF4858;
+  border-radius: 4px;
+  padding: 10px 30px;
+}
+
+/* Success Button */
+.button-success{
+    background-color: #0AD00A;
+    color: #FAFAFB;
+    border: #0AD00A;
+}
+
+.button-success:hover{
+    background-color: #07C107;
+    color: #FAFAFB;
+    border: #07C107;
+}
+
+.button-success-outline{
+    background-color: #FAFAFB;
+    color: #0AD00A;
+    border: 1px solid #0AD00A;
+}
+
+.button-success-faded {
+  background-color: #E6FAE6;
+  color: #0AD00A;
+  border: 1px solid #0AD00A;
+}
+
+.button-success-large {
+  background-color: #0AD00A;
+  color: #FAFAFB;
+  border: #0AD00A;
+  border-radius: 4px;
+  padding: 10px 30px;
+
+}
+.button-success-large:hover {
+  background-color: #07C107;
+  color: #FAFAFB;
+  border: #07C107;
+  border-radius: 4px;
+  padding: 10px 30px;
+}
+
+.button-success-largeOutline {
+  background-color: #FAFAFB;
+  color: #0AD00A;
+  border: 1px solid #0AD00A;
+  border-radius: 4px;
+  padding: 10px 30px;
+}
+
+.button-success-largeFaded {
+  background-color: #E6FAE6;
+  color: #0AD00A;
+  border: 1px solid #0AD00A;
+  border-radius: 4px;
+  padding: 10px 30px;
+}
+
+/* Warning Button  */
+.button-warning{
+  background-color: #FFC600;
+  color: #FAFAFB;
+  border: #FFC600;
+}
+
+.button-warning:hover{
+  background-color: #EBB600;
+  color: #FAFAFB;
+  border: #EBB600;
+}
+
+.button-warning-outline{
+  background-color: #FAFAFB;
+  color: #FFC600;
+  border: 1px solid #FFC600;
+}
+
+.button-warning-faded {
+  background-color: #FCEEC2;
+  color: #FFC600;
+  border: 1px solid #FFC600;
+}
+
+.button-warning-large{
+  background-color: #FFC600;
+  color: #FAFAFB;
+  border: #FFC600;
+  border-radius: 4px;
+  padding: 10px 30px;
+}
+
+.button-warning-large:hover{
+  background-color: #EBB600;
+  color: #FAFAFB;
+  border: #EBB600;
+  border-radius: 4px;
+  padding: 10px 30px;
+}
+
+.button-warning-largeOutline{
+  background-color: #FAFAFB;
+  color: #FFC600;
+  border: 1px solid #FFC600;
+  border-radius: 4px;
+  padding: 10px 30px;
+}
+
+.button-warning-largeFaded {
+  background-color: #FCEEC2;
+  color: #FFC600;
+  border: 1px solid #FFC600;
+  border-radius: 4px;
+  padding: 10px 30px;
+}
+
+
+/* Default Button */
+.button-default{
+  background-color: #22262A;
+  color: #FAFAFB;
+  border: #22262A;
+}
+
+.button-default:hover{
+  background-color: #13161A;
+  color: #FAFAFB;
+  border: #13161A;
+}
+
+.button-default-outline{
+  background-color: #22262A;
+  color: #FAFAFB;
+  border: 1px solid #22262A;
+}
+
+.button-default-faded {
+  background-color: #F1F3F4;
+  color: #13161A;
+  border: 1px solid #13161A;
+}
+
+.button-default-large{
+  background-color: #22262A;
+  color: #FAFAFB;
+  border: #22262A;
+  border-radius: 4px;
+  padding: 10px 30px;
+}
+
+.button-default-large:hover{
+  background-color: #13161A;
+  color: #FAFAFB;
+  border: #13161A;
+  border-radius: 4px;
+  padding: 10px 30px;
+}
+
+.button-default-largeOutline{
+  background-color: #FAFAFB;
+  color: #22262A;
+  border: 1px solid #22262A;
+  border-radius: 4px;
+  padding: 10px 30px;
+}
+
+.button-default-largeFaded {
+  background-color: #F1F3F4;
+  color: #13161A;
+  border: 1px solid #13161A;
+  border-radius: 4px;
+  padding: 10px 30px;
+}
+
+/* Add to Cart */
+.button-addCart {
+  background-color: #eaf5ff;
+  color: #33a0ff;
+  border: #33a0ff;
+  background-image: url("./cart_-1.png");
+  background-repeat: no-repeat;
+  padding: 20px;
+  align-items: center;
+  background-position: 1em;
+}
+
+.button-cartIcon {
+  background-color: #eaf5ff;
+  color: #33a0ff;
+  border: #33a0ff;
+  padding-left: 40px;
+  text-align: center;
+  background-image: url("./cart_-1.png");
+  background-repeat: no-repeat;
+  background-position: 1em;
+}
+
+.button-favorites{
+  background-color: #eaf5ff;
+  color: #33a0ff;
+  border: #33a0ff;
+  background-image: url("./hearts.png");
+  background-repeat: no-repeat;
+  padding: 20px;
+  align-items: center;
+  background-position: 1em;
+}
+
+.button-favoritesIcon {
+  background-color: #eaf5ff;
+  color: #33a0ff;
+  border: #33a0ff;
+  padding-left: 40px;
+  text-align: center;
+  background-image: url("./hearts.png");
+  background-repeat: no-repeat;
+  background-position: 1em;
+}
